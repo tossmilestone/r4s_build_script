@@ -265,6 +265,10 @@ CONFIG_PACKAGE_shadow-usermod=y
 CONFIG_PACKAGE_shadow-utils=y
 # CONFIG_shadow-all is not set
 
+# Udpxy
+CONFIG_PACKAGE_udpxy=y
+CONFIG_PACKAGE_luci-app-udpxy=y
+
 ### GNU Core Utilities
 CONFIG_PACKAGE_coreutils=y
 CONFIG_PACKAGE_coreutils-cp=y
